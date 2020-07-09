@@ -1,0 +1,212 @@
+*{margin: 0;padding: 0; outline: 0}
+body{font-family:arial; font-size: 14px;
+  line-height: 20px; color: #333;
+background: #DBD9DB;}
+.template{width: 960px; margin: 0 auto;
+background: #F6F6F6;}
+.clear{overflow: hidden;}
+.headersection{
+  height: 100px;
+background: none repeat scroll 0% 0% #333;
+}
+.header{
+
+}
+.headerleft{
+  width: 450px;
+  color: #fff;
+  float: left;
+  margin-left: 30px;
+
+}
+.headerleft h2{
+font-size: 40px;
+line-height: 65px;
+margin-top: 20px;
+
+}
+.headerright{
+    margin-right: 30px;
+  width: 425px;
+  float: right;
+  color: #fff;
+
+  margin-top: 40px;
+}
+.headerright a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+.headerright a:hover,#active{
+  color: #199ECB;
+}
+.mainsection{
+  background: #fff;
+}
+.slogansection{
+  margin:  10px 30px;
+  border-bottom: 2px dotted #ADACAD;
+padding-bottom: 20px;
+}
+.slogansection h2{
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  font-weight: bold;
+}
+.slogansection h3{
+  font-size: 35px;
+  line-height: 37px;
+  color: #A7A4A5;
+
+}
+.description{
+  margin: 20px 30px;
+
+  border-bottom: 2px dotted #ADACAD;
+  padding-bottom: 10px;
+
+}
+.description p{
+  font-size: 25px;
+  line-height: 27px;
+  color: #666;
+
+}
+.contentsection{
+margin: 20px 0px;
+margin-left: 30px;
+border-bottom: 2px dotted #ADACAD;
+padding-bottom: 30px;
+}
+.services{
+  background: #00ADEF;
+  width: 240px;
+  float: left;
+margin-right: 30px;
+  padding: 20px;
+box-shadow: 7px 7px 5px grey;
+}
+.services h2{
+  color: #fff;
+  border-bottom: 1px dotted #fff;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  font-size: 26px;
+  text-align: center;
+}
+.services p{
+  color: #fff;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+}
+.readmore{
+  background: #1160B4;
+  text-align: center;
+  margin-top: 20px;
+}
+.readmore a{
+color: #ddd;
+text-decoration: none;
+font-size: 16px;
+text-transform:uppercase;
+font-weight: bold;
+}
+.readmore a:hover{
+  color: #D19A66;
+}
+.mainbottom{
+  border-bottom: 2px dotted #ADACAD;
+padding-bottom: 10px;
+background: #fff;
+}
+.clientsection{
+  width: 398px;
+  float: left;
+  border-right: 2px dotted #cccccc;
+margin: 20px 30px;
+}
+.clientsectin h2{
+  font-size: 25px;
+  color: #666;
+  line-height: 35px;
+  padding-bottom: 10px;
+
+}
+  .testimonial{
+margin-top: 20px;
+  }
+.clientdesc{
+  float: left;
+  width:280px;
+  margin-left: 20px;
+}
+
+.clientdesc a{
+  color: #00ADEF;
+  text-decoration: none;
+
+}
+.clientdesc a:hover{
+  color: #66ADF2;
+}
+.clientdesc p{
+  color: #666;
+}
+.clientnames{
+  font-weight: bold;
+
+}
+.clientimage {
+    float: left;
+    width: 96
+    px;
+    height: 80px;
+    border: 1px solid #C30A0A;
+}
+
+.projectsection{
+  width: 440px;
+  float: right;
+  margin: 20px 30px;
+}
+.projectsection h2{
+  color: #666;
+  font-size: 25px;
+  line-height: 30px;
+}
+.projectsection h3{
+  color:#999;
+  margin-bottom:5px;
+  margin-top: 5px;
+}
+.projectsection img{
+  width: 400px;
+    height: 165px;
+    border:1px solid #c30a0a;
+    border-radius:10px;
+   margin-bottom:5px;
+}
+.projectsection p{
+  color: #666;
+  margin-bottom:10px;
+}
+.projectsection a{
+color: #52ADF2;
+font-size: 18px;
+text-decoration: none;
+}
+.footersection{
+  background:#333333;
+margin-top: 20px;
+}
+.footersection p{
+  text-align: center;
+color:#FFFFFF;
+padding: 20px;
+font-size: 22px;
+
+}

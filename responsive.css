@@ -1,0 +1,79 @@
+@media screen and (max-width:768px){
+.template{
+  width: 760px;
+}
+.headerleft{
+  width: 275px;
+}
+.headerleft h2{
+font-size: 35px;
+}
+.services{
+  width: 173px;
+}
+.readmore{
+  padding: 10px 0;
+}
+.readmore a{
+  font-size: 14px;
+
+}
+.clientsection{
+  border-right: none;
+  border-bottom: 2px dotted #cccccc;
+  padding-bottom: 20px;
+  width: 100%;
+
+
+}
+.projectsection{
+  float: none;
+  margin-top: 20px;
+}
+}
+@media screen and (max-width:460px){
+.template{
+  width: 450px;
+}
+.headersection{
+  height: 100%;
+}
+.headerleft{
+  margin: 0;
+width: 100%;
+text-align: center;
+}
+.headerleft h2{
+font-size: 30px;
+}
+.headerright{
+margin: 20px 30px;
+width: 100%;
+
+float: none;
+}
+.headerright a{
+font-size: 15px;
+margin:5px;
+}
+.slogansection h2 {
+    font-size: 25px;
+    line-height: 46px;
+
+}
+.slogansection h3 {
+    font-size: 22px;
+    line-height: 24px;
+
+}
+.description p {
+    font-size: 20px;
+    line-height: 22px;
+
+}
+.services {
+width: 290px;
+    margin: 0 30px;
+margin-bottom: 20px;
+}
+}
